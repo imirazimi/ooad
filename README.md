@@ -1,3 +1,16 @@
+<style>
+body, .rtl {
+  direction: rtl;
+  text-align: right;
+}
+.rtl * {
+  direction: rtl !important;
+  text-align: right !important;
+}
+</style>
+
+<div class="rtl">
+   
 ## 📘 فصل ۱ – Complexity (نسخه مغزی و کامل)
 
 ا Chapter 1 – Complexity
